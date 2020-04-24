@@ -1,0 +1,63 @@
+#ministryCard {
+  background-color: #ffd700;
+}
+
+#deathEaterCard {
+  background-color: #a9a9a9;
+}
+
+.ministryLogo {
+  width: 400px;
+  height: 700px;
+  margin: auto;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: url("https://i.pinimg.com/originals/be/05/ad/be05ad87a21264ac8caec738c4009ec2.png");
+}
+
+.deatheaterLogo {
+  width: 400px;
+  height: 700px;
+  margin: auto;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: url("https://i.dlpng.com/static/png/305258_thumb.png");
+}
+
+#minPeopleList {
+  margin: 0px;
+  font-size: 14pt;
+  padding: 0px;
+  padding-bottom: 5px;
+  color: rgb(182, 177, 121);
+  font-family: Philosopher;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.headlineM {
+  color: rgb(180, 176, 114);
+  padding-top: 10px;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+  font-size: 20pt;
+}
+
+.headlineD {
+  color: red;
+  padding-top: 10px;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+  font-size: 20pt;
+}
+
+#deatheaterPeopleList {
+  margin: 0px;
+  font-size: 14pt;
+  padding: 0px;
+  padding-bottom: 5px;
+  color: red;
+  font-family: Frijole;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+}

@@ -1,0 +1,31 @@
+.spell {
+  width: 100%;
+  text-align: center;
+  font-size: 400%;
+}
+
+textarea {
+  margin-top: 5%;
+  height: 400px;
+  width: 95%;
+  outline: none;
+  resize: none;
+  overflow: auto;
+  border: 0px;
+  background: transparent;
+  font-family: "Waiting for the Sunrise";
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 3px;
+}
+
+.header {
+  font-family: "Waiting for the Sunrise", cursive;
+  font-size: 25px;
+  font-weight: bold;
+  letter-spacing: 3px;
+}
+
+.saveButton {
+  margin-left: 70%;
+}

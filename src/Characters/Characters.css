@@ -1,0 +1,31 @@
+img {
+  padding-left: 40px;
+  padding-top: 10px;
+}
+
+h1 {
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul {
+  color: white;
+  font-size: 22pt;
+  font-family: "Brush Script MT", "Arial Narrow", Arial, sans-serif;
+}
+
+h3 {
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#students {
+  list-style-type: none;
+  height: auto;
+  color: white;
+  columns: 3;
+}
+
+#houses {
+  height: absolute;
+}
