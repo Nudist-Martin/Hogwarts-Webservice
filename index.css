@@ -1,0 +1,57 @@
+h1 {
+  padding-bottom: 10px;
+}
+
+.page {
+  width: 1000px;
+  height: 800px;
+  margin: auto;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: url("https://dumielauxepices.net/sites/default/files/scripture-clipart-open-book-outline-758548-6378382.png");
+}
+
+.book {
+  display: flex;
+}
+
+.leftPage {
+  width: 45%;
+  height: 100%;
+  margin-right: 5%;
+}
+
+.rightPage {
+  width: 45%;
+  height: 100%;
+  margin-left: 4%;
+}
+
+#bookButton {
+  margin-top: -20%;
+  margin-left: 16%;
+  margin-right: 16%;
+  width: 16%;
+  font-weight: bold;
+}
+
+#homeButton {
+  position: fixed;
+  margin-left: 5%;
+  margin-top: 5%;
+}
+
+#AllSpellsButton {
+  position: fixed;
+  margin-left: 5%;
+  margin-top: 10%;
+}
+
+.headerRightPage {
+  padding-top: 5%;
+  font-size: 175%;
+}
+
+b {
+  color: white;
+}
