@@ -65,7 +65,7 @@ SpellDetails.js -
 
 OtherPeople.js - 
 
-# TO-DO LIST (so we remember what to do)
+# Missing Features
 
 Design a page for favourite spells, add the book and some styling
 
